@@ -20,7 +20,7 @@ This repository content is license for use under the [CC BY 4.0 license](https:/
 
 ## Funding and acknowledgments
 
-*Customize funding statement below. The general statement provided covers funding mechanism for community reporting formats*  
+*Customize funding statement below. The general statement provided covers funding mechanism for reporting formats*  
 
 Funding for the development of ESS-DIVE's [add your reporting format name here] reporting format was provided by the U.S. Department of Energy, Office of Science, Office of Biological and Environmental Research, Climate and Environmental Science Division, Data Management program under contract number DE-AC02-05CH11231.
 
